@@ -1,4 +1,4 @@
-# My_Projects
+# Slot Machine Game
 
 Utilized procedural programming concepts to model game logic
 Provided a basic command-line interface
